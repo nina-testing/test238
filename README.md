@@ -4,5 +4,3 @@ To learn more about our products, see:
   <li><a href="https://nina-testing.github.io/products/">Products</a></li>
   <li><a href="https://nina-testing.github.io/additional-products/">Additional products</a></li>
 </p>
-
-We are also selling pancakes.
